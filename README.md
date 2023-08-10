@@ -1,4 +1,4 @@
-#### RFM Analysis Homework
+#### RFM Analysis
 The dataset under study contains credit card transactions from the State of Oklahoma. It includes information on purchases made through the purchase card programs administered by the state and higher educational institutions. The purchase card information is updated monthly after the end of every month. As such, July information is added in August, August in September, and so on and so forth.
 
 In a brief, here's the data description:
